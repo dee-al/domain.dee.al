@@ -1,9 +1,5 @@
-[ 
-
 {
     "koneksi": "CNAME",
     "hostku": "Riztranslation",
     "target": "riztranslation.github.io"
 }
-
-]
