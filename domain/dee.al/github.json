@@ -2,7 +2,7 @@
 
 {
     "koneksi": "CNAME",
-    "hostku": "riztranslation",
+    "hostku": "dev","Riztranslation"
     "target": "https://riztranslation.github.io/"
 }
 
