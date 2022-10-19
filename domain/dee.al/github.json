@@ -2,30 +2,8 @@
 
 {
     "koneksi": "CNAME",
-    "hostku": "",
-    "target": "fsteamid.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "domain",
-    "target": "dee-al.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "app",
-    "target": "teamkita.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "dev",
-    "target": "mr614ck.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "testing",
-    "target": "testing.github.io"
+    "hostku": "riztranslation",
+    "target": "https://riztranslation.github.io/"
 }
-
-
 
 ]
