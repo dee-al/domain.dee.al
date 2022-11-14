@@ -3,42 +3,6 @@
 {
     "koneksi": "CNAME",
     "hostku": "",
-    "target": "fsteamid.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "domain",
-    "target": "dee-al.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "app",
-    "target": "teamkita.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "dev",
-    "target": "mr614ck.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "testing",
-    "target": "testing.github.io"
-},
-{
-    "koneksi": "CNAME",
-    "hostku": "riztranslation",
-    "target": "riztranslation.github.io"
-},
-    {
-    "koneksi": "CNAME",
-    "hostku": "stonks",
-    "target": "dli-invest.github.io"
-    }
-    ,
-    {
-        "koneksi": "CNAME",
-        "hostku": "anas",
-        "target": "itzanasov.github.io"
-    }
+    "target": "four-by-two.github.io"
+}
 ]
