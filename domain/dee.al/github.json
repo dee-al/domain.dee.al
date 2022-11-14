@@ -2,7 +2,7 @@
 
 {
     "koneksi": "CNAME",
-    "hostku": "",
+    "hostku": "4x2",
     "target": "four-by-two.github.io"
 }
 ]
