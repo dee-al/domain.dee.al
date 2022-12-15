@@ -5,5 +5,10 @@
   "hostku": "a7vip",
   "target": "37.32.30.5"
 }
+  {
+  "koneksi": "A",
+  "hostku": "live",
+  "target": "143.198.224.153"
+  }
   
 ]
