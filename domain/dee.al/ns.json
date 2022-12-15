@@ -1,9 +1,8 @@
 [
-  
 {
-  "koneksi": "NS",
-  "hostku": "@",
-  "target": "ns1.firdausiregar.my.id"
+  "koneksi": "NS", 
+  "hostku": "@", 
+  "target": "ns1.firdausiregar.my.id" 
 },
 {
   "koneksi": "NS",
@@ -43,7 +42,28 @@
 "koneksi": "NS",
 "hostku": "lty",
 "target": "ns44.cloudns.net"
-}
+},
 
+{
+"koneksi": "NS",
+"hostku": "minilandx",
+"target": "ns1.afraid.org"
+},
+{
+"koneksi": "NS",
+"hostku": "minilandx",
+"target": "ns2.afraid.org"
+},
+
+{
+"koneksi": "NS",
+"hostku": "minilandx",
+"target": "ns3.afraid.org"
+},
+{
+"koneksi": "NS",
+"hostku": "minilandx",
+"target": "ns4.afraid.org"
+}
 ]
   
