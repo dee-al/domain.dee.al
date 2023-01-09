@@ -30,15 +30,19 @@
     "hostku": "riztranslation",
     "target": "riztranslation.github.io"
 },
-    {
+{
     "koneksi": "CNAME",
     "hostku": "stonks",
     "target": "dli-invest.github.io"
-    }
-    ,
-    {
+},
+{
+    "koneksi": "CNAME",
+    "hostku": "zeusgang",
+    "target": "zeusgangproject.github.io"
+},
+{
         "koneksi": "CNAME",
         "hostku": "anas",
         "target": "itzanasov.github.io"
-    }
+}
 ]
