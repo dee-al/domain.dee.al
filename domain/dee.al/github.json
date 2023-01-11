@@ -40,5 +40,11 @@
         "koneksi": "CNAME",
         "hostku": "anas",
         "target": "itzanasov.github.io"
-    }
+    },
+{
+        "koneksi": "CNAME",
+        "hostku": "exynos",
+        "target": "exynos-discord.github.io"
+    },
+   
 ]
